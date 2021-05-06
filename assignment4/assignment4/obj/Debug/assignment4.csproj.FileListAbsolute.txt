@@ -1,0 +1,10 @@
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\obj\Debug\assignment4.csprojAssemblyReference.cache
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\obj\Debug\assignment4.Form1.resources
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\obj\Debug\assignment4.Properties.Resources.resources
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\obj\Debug\assignment4.csproj.GenerateResource.cache
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\bin\Debug\assignment4.exe.config
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\bin\Debug\assignment4.exe
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\bin\Debug\assignment4.pdb
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\obj\Debug\assignment4.exe
+D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\obj\Debug\assignment4.pdb
