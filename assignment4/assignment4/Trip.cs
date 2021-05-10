@@ -97,14 +97,14 @@ namespace assignment4
 
         ~Trip()
         {
-            Console.WriteLine("The number of trip is destroyed: " + tripNumber);
+            Console.WriteLine("The number of trip has been destroyed: " + tripNumber);
             counter--;
         }
 
         public string PrintTripForGUI()
         {
           
-            return "The number of trip: " + tripNumber + " The destination is: " + destination + " The date: " + date.ToString("dd-MM-yyyy") + " The trip type: " + TripType;
+            return "Trip number: " + tripNumber + ". Destination: " + destination + ". Date: " + date.ToString("dd-MM-yyyy") + ". Trip's type: " + TripType + ".";
         }
     }
 }

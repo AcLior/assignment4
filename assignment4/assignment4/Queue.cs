@@ -146,7 +146,16 @@ namespace assignment4
                 
             }
         }
-    
-      
+        public bool TripExists(DateTime datetime, TripType triptype)
+        {
+            for (int i = 0; i < index; i++)
+            {
+                if (arr[i].Date == datetime && arr[i].TripType == triptype)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }   
     }
 }

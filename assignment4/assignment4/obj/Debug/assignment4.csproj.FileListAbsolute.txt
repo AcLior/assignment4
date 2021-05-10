@@ -8,3 +8,13 @@ D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\bin\Debug\a
 D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\bin\Debug\assignment4.pdb
 D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\obj\Debug\assignment4.exe
 D:\סמסטר א\סמסטר ב\C#\מטלות\assignment4\assignment4\obj\Debug\assignment4.pdb
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\bin\Debug\assignment4.exe.config
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\bin\Debug\assignment4.exe
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\bin\Debug\assignment4.pdb
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\obj\Debug\assignment4.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\obj\Debug\assignment4.Properties.Resources.resources
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\obj\Debug\assignment4.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\obj\Debug\assignment4.exe
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\obj\Debug\assignment4.pdb
+C:\Users\danie\OneDrive\שולחן העבודה\HW4\assignment4\assignment4\obj\Debug\assignment4.TripsGUI.resources
